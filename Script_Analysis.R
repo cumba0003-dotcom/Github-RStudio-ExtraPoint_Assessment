@@ -9,3 +9,6 @@ mean(data)
 #Commit 2
 
 summary(data)
+
+#Commit 3 - lenght of data
+length(data)
